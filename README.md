@@ -2,3 +2,6 @@ This repository serves as the central data operations and analytics hub for my s
 
 "116" implicitly refers to the anniversary of Quantumhub Peru, an organization dedicated to developing human capital, "the chain should later move into university research/coursework and only after that comes public policy and industry development".
 
+<img width="1168" height="1335" alt="IMG_7802" src="https://github.com/user-attachments/assets/3fbda136-22db-4eea-86e9-7d282cc5163a" />
+
+
